@@ -1,1 +1,4 @@
 #	.gitignore
+# vim
+*.sw?
+.*.sw?
